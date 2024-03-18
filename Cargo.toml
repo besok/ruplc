@@ -1,0 +1,10 @@
+[package]
+name = "ruplc"
+version = "0.1.0"
+edition = "2021"
+description = "Framework to create and support PLC from rust"
+license-file = "LICENSE"
+authors = ["BorisZhguchev <zhguchev@hotmail.com>"]
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
